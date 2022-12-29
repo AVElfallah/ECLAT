@@ -3,12 +3,10 @@ This is Python PyQt project in which we applied some of ECLAT Algorithm features
 
  - Eclat research
 <div>
-<iframe src="assets/Eclat_Algorithm_Research.pdf"
-    frameBorder="0"
-    scrolling="auto"
-    height="600px"
-    width="100%">
-    </iframe>
+<iframe src="https://docs.google.com/gview?url=assets/Eclat_Algorithm_Research.pdf&embedded=true" 
+width=100% 
+height=600px
+frameborder=0></iframe>
 </div>
 
  - Eclat example
